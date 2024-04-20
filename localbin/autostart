@@ -1,1 +1,1 @@
-xrandr --output DVI-D-0 --right-of HDMI-0 && xrandr --output DVI-D-0 --primary && xrandr --output HDMI-0 --primary && feh --bg-scale /home/q/desktop/wallpaper.jpg && xinput set-prop 10 299 -0.5 && easyeffects --gapplication-service && keynav
+xrandr --output DVI-D-0 --right-of HDMI-0 && xrandr --output DVI-D-0 --primary && xrandr --output HDMI-0 --primary && feh --bg-scale /home/q/desktop/wallpaper.jpg && xinput set-prop 10 299 -0.5 && keynav
