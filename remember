@@ -1,3 +1,1 @@
-1.wpctl to fix sound volume
-2.nvidia driver before reboot
-
+wpctl status && wpctl set-volume *soundcard id* 100 -- фикс сбрасывающегося звука из-за ваирпламбера
